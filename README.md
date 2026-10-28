@@ -12,9 +12,9 @@
   <a href="https://linkedin.com/in/chetan0121">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://github.com/chetan0121">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> -->
+  <a href="https://leetcode.com/u/Prajapati_Chetan_0102/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ---
