@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Interested in software engineering, application development, backend systems, and solving problems through code.
+  Building practical software, strengthening engineering fundamentals, and exploring how reliable applications work under the hood.
 </p>
 
 <p align="center">
